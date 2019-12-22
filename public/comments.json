@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "avatar": "img/img-avatar2.png",
+    "email": "abc@gmail.com",
+    "body": "This is some text within a card body."
+  },
+  {
+    "id": "2",
+    "avatar": "img/img-avatar2.png",
+    "email": "abcefg@gmail.com",
+    "body": "This is some text within a card body."
+  },
+  {
+    "id": "3",
+    "avatar": "img/img-avatar2.png",
+    "email": "abcd@gmail.com",
+    "body": "This is some text within a card body."
+  }
+]
